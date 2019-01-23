@@ -6,14 +6,14 @@
 </template>
 
 <script>
-import livre from "./components/livre";
+import livre from './components/livre'
 
 export default {
-  name: "App",
+  name: 'App',
   components: {
     livre
   }
-};
+}
 </script>
 
 <style>
